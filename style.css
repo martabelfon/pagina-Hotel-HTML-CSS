@@ -1,0 +1,515 @@
+/*PANTALLA 1*/
+.barra{
+    background-color: rgb(70, 69, 69);
+    height: 90px;
+}
+
+.logo{
+    background-image: url("https://uploads.turbologo.com/uploads/design/hq_preview_image/3394630/draw_svg20210520-10997-w0pjol.svg.png");
+    background-position: center;
+    background-size: cover;
+    width: 200px;
+    height: 90px;
+    display: inline-block;
+    margin-left: 10%;
+}
+
+.menu{
+    width: 40%;
+    height: 90px;
+    float: right;
+    margin: 0 5% 0 25%;
+}
+
+.menu span a{
+    color: whitesmoke;
+    display: inline-block;
+    margin: 5% 5% 0 0;
+    font: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+
+.fondo1{
+    background-image: url("https://img3.wallspic.com/previews/0/8/4/5/5/155480/155480-naturaleza-andorra-rio-montana-montaje_de_escenografia-x750.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 680px;
+}
+
+.logo1{
+    background-image: url("https://uploads.turbologo.com/uploads/design/hq_preview_image/3394630/draw_svg20210520-10997-w0pjol.svg.png");
+    background-position: center;
+    background-size: cover;
+    width: 500px;
+    height: 200px;
+   display: inline-block;
+   margin: 200px 0 190px 470px;
+}
+
+/*PANTALLA 2*/
+
+.fondo2{
+    background-color: white;
+    height: 775px;
+}
+
+.container2{
+    background-image: url("https://c1.wallpaperflare.com/preview/698/13/217/frost-leaves-winter-cold.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    float: left;
+    width: 730px;
+    height: 500px;
+    margin: 100px 400px 190px 370px;
+}
+
+.cuadro1{
+    background-color: rgb(70, 69, 69);
+    display: block;
+    width: 530px;
+    height: 300px;
+    margin: 100px 0 0 100px;
+}
+
+.cuadro1 h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.cuadro1 p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    text-align: justify;
+    padding: 30px 60px 0 60px;
+}
+
+.imagenIzquierda{
+    background-image: url("https://escomyl.es/wp-content/uploads/2019/07/historia-titulo2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    float: left;
+    width: 290px;
+    height: 90px;
+    margin: 35px 0 0 10px;
+}
+
+/*PANTALLA 3*/
+
+.fondo3{
+    background-image: url("https://www.estiber.com/blog/wp-content/uploads/2022/02/miradores-andorra-1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 775px;
+}
+
+.container3{
+    width: 1000px;
+    height: 700px;
+    margin: 30px 0 0 230px;
+    float: left;
+}
+
+.subcontainer1{
+    height: 290px;
+}
+
+.minifoto1{
+    background-image: url("https://www.canoasdelsella.com/blog/wp-content/uploads/2017/05/Hoteles-rurales.png");
+    background-position: center;
+    background-size: cover;
+    width: 250px;
+    height: 230px;
+    float: left;
+    margin: 0 15px 0 110px;
+}
+
+.minifoto2{
+    background-image: url("https://www.hotelruralohana.es/wp-content/uploads/2022/10/ohana-hotel-rural-la-esperanza-exterior-suites-1024x683.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 250px;
+    height: 270px;
+    float: left;
+    margin-right: 15px;
+}
+
+.minifoto3{
+    background-image: url("https://elverdenal.es/wp-content/uploads/2019/11/Foto-exterior-por-la-noche-el-Verdenal.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 250px;
+    height: 230px;
+    float: left;
+    margin-right: 15px;
+}
+
+.subcontainer2{
+    height: 290px;
+}
+
+.minifoto4{
+    background-image: url("https://www.orgullorural.com/wp-content/uploads/2021/03/Orgullo-rural1-scaled.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 250px;
+    height: 330px;
+    float: left;
+    margin: -30px 15px 0 110px;
+}
+
+.minifoto5{
+    background-image: url("https://www.orgullorural.com/wp-content/uploads/2019/03/IMG_1285.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 250px;
+    height: 230px;
+    float: left;
+    margin: 5px 15px 0 0;
+}
+
+.minifoto6{
+    background-image: url("https://cf.bstatic.com/xdata/images/hotel/max1024x768/329578875.jpg?k=7e99b5165a097ae6d4436f15eedca6c3c251214d7adf1c63e6511ab5e2ea6f8c&o=");
+    background-position: center;
+    background-size: cover;
+    width: 250px;
+    height: 330px;
+    float: left;
+    margin: -30px 15px 0 0;
+}
+
+.subcontainer3{
+    height: 90px;
+}
+
+.minifoto7{
+    background-image: url("https://lapastora.net/wp-content/uploads/2021/02/Habitacion-hotel-boutique-Pre-Pirineo.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+    margin-left: 377px;
+    margin-top: -30px;
+}
+
+/*PANTALLA 4*/
+
+.tituloPrecios{
+    height: 70px;
+    margin-top: -20px;
+}
+
+.tituloPrecios h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.menuPrecios{
+    height: 30px;
+    width: 400px;
+    margin-left: 570px;
+}
+
+.menuPrecios span a{
+    display: inline-block;
+    margin: 0% 5% 0 0;
+    font: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+.fondo4{
+    background-color: white;
+    height: 675px;
+}
+
+.contenedorPrecios{
+    background-image: url("https://c1.wallpaperflare.com/preview/698/13/217/frost-leaves-winter-cold.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 650px;
+    width: 1200px;
+    margin-left: 120px;
+}
+
+.tabla1{
+    float: left;
+    background-color: white;
+    height: 570px;
+    width: 400px;
+    margin-left: 180px;
+    margin-top: 40px;
+}
+
+.tabla1 table{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.tabla1 table tr td{
+    padding-top: 10px;    
+}
+
+.precio{
+   padding-left: 140px;
+   text-align: right;
+}
+
+.tabla2{
+    float: right;
+    background-color: white;
+    height: 570px;
+    width: 400px;
+    margin-right: 180px;
+    margin-top: 40px;
+}
+
+.tabla2 table{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.tabla2 table tr td{
+    padding-top: 10px;    
+}
+
+/*PANTALLA 5*/
+
+.titulo5{
+    background-color: rgb(70, 69, 69);
+    height: 90px;
+}
+
+.titulo5 h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    padding-left: 650px;
+    padding-top: 20px;
+}
+
+.fondo5{
+    background-color: white;
+    height: 680px;
+}
+
+.blog1{
+    background-image: url("https://www.cataloniahotels.com/es/blog/wp-content/uploads/2017/09/tipos-de-desayuno-en-hotel-620x413.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 330px;
+    height: 430px;
+    display: inline-block;
+    margin-left: 200px;
+    opacity: 0.5;
+}
+
+.blog2{
+    background-image: url("https://i.dailymail.co.uk/1s/2018/11/07/13/5882938-0-image-a-10_1541595906105.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 330px;
+    height: 430px;
+    display: inline-block;
+    margin-left: 10px; 
+    margin-top: 100px;
+    opacity: 0.5;
+}
+
+.blog3{
+    background-image: url("https://hotellalaguna.com/wp-content/uploads/2018/03/DSC_0073web-1024x680.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 330px;
+    height: 430px;
+    display: inline-block;
+    margin-left: 10px; 
+    opacity: 0.5;
+}
+
+.contenedorblog1, .contenedorblog2, .contenedorblog3{
+    width: 230px;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.contenedorblog1 h1 a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+.contenedorblog2 h1 a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+.contenedorblog3 h1 a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+.botonblog{
+    background-color:  rgb(70, 69, 69);;
+    width: 230px;
+    height: 30px;
+    margin-left: 600px;
+    margin-top: 30px;
+}
+
+.botonblog h2 a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+    padding-left: 25px;
+}
+
+
+/*PANTALLA 6*/
+
+.division1{
+    background-image: url("https://img.freepik.com/fotos-premium/textura-nieve-blanca-que-encuentra-uniformemente-suelo_199743-2534.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 370px;
+}
+
+.logo6{
+    background-image: url("https://uploads.turbologo.com/uploads/design/hq_preview_image/3394630/draw_svg20210520-10997-w0pjol.svg.png");
+    background-position: center;
+    background-size: cover;
+    height: 150px;
+    width: 290px;
+    margin-left: 560px;
+}
+
+.mensaje6{
+    height: 40px;
+}
+
+.mensaje6 p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.direccion{
+    background-image: url("https://icones.pro/wp-content/uploads/2021/04/icones-de-localisation-de-la-carte-grise.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 50px;
+    display: inline-block;
+    height: 100px;
+    width: 150px;
+    margin-left: 100px;
+}
+
+.textoDireccion{
+    height: 20px;
+    margin-top: 80px;
+}
+
+.textoDireccion p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.telefono{
+    background-image: url("https://icones.pro/wp-content/uploads/2021/03/icone-d-appel-et-d-appel-telephonique-gris.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 50px;
+    display: inline-block;
+    height: 100px;
+    width: 150px;
+    margin-left: 380px;
+}
+
+.textoTelefono{
+    height: 20px;
+    margin-top: 80px;
+}
+
+.textoTelefono p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.mail{
+    background-image: url("https://icones.pro/wp-content/uploads/2021/02/icone-de-courrier-electronique-gris.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 50px;
+    display: inline-block;
+    height: 100px;
+    width: 150px;
+    margin-left: 380px;
+}
+
+.textoMail{
+    height: 20px;
+    margin-top: 80px;
+}
+
+.textoMail p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.division2{
+    height: 180px;
+}
+
+.siguenos{
+    height: 100px;
+    margin-top: -15px;
+}
+
+.siguenos h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.facebook input{
+    display: inline-block;
+    margin-left: 500px;
+    background-color: white;
+    color: gray;
+    border-width: 0.5px;
+    border-color: gray;
+    width: 150px;
+    height: 40px;
+}
+
+.instagram input{
+    float: right;
+    margin-right: 500px;
+    margin-top: -40px;
+    background-color: white;
+    color: gray;
+    border-width: 0.5px;
+    border-color: gray;
+    width: 150px;
+    height: 40px;
+}
+
+
+.division3{
+    background-color: rgb(70, 69, 69);
+    height: 280px;
+    margin-top: -75px;
+
+}
+
